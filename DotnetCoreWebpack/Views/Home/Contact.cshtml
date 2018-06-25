@@ -1,10 +1,9 @@
 ﻿@{
     ViewData["Title"] = "Contact";
-    ViewData["ViewScript"] = "contact";
 }
 
 @section Scripts {
-    <partial name="~/Partials/_Script.cshtml" view-data="@ViewData" />
+    @await Html.PartialAsync("_Script", "contact")
 }
 
 <h2>@ViewData["Title"]</h2>

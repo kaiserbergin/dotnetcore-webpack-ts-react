@@ -30,4 +30,4 @@ D:\Code\POC\dotnetcore-webpack\DotnetCoreWebpack\DotnetCoreWebpack\obj\Debug\net
 D:\Code\POC\dotnetcore-webpack\DotnetCoreWebpack\DotnetCoreWebpack\obj\Debug\netcoreapp2.1\DotnetCoreWebpack.dll
 D:\Code\POC\dotnetcore-webpack\DotnetCoreWebpack\DotnetCoreWebpack\obj\Debug\netcoreapp2.1\DotnetCoreWebpack.pdb
 D:\Code\POC\dotnetcore-webpack\DotnetCoreWebpack\DotnetCoreWebpack\obj\Debug\netcoreapp2.1\DotnetCoreWebpack.csproj.CopyComplete
-D:\Code\POC\dotnetcore-webpack\DotnetCoreWebpack\DotnetCoreWebpack\obj\Debug\netcoreapp2.1\Razor\Views\Partials\_Script.g.cshtml.cs
+D:\Code\POC\dotnetcore-webpack\DotnetCoreWebpack\DotnetCoreWebpack\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Script.g.cshtml.cs

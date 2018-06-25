@@ -10,10 +10,11 @@ module.exports = {
     entry: {
         // What you want to minify
         home: './Scripts/home/home-page.ts',
-        contact: './Scripts/contact/contact-page.ts'
+        contact: './Scripts/contact/contact-page.ts',
+        index: "./Scripts/react/index.tsx"
     },
     resolve: {
-        extensions: [".ts"]
+        extensions: [".ts", ".tsx", ".js", ".json"]
     },
     module: {
         rules: [
@@ -32,7 +33,7 @@ module.exports = {
         splitChunks: {
             cacheGroups: {
                 commons: {
-                    name: 'commons',
+                    name: 'vendor',
                     chunks: 'initial',
                     minChunks: 2
                 }
